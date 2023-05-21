@@ -37,7 +37,7 @@
 
 ## Getting Started
 
-Setup PartnersInCrime on your local machine using these simple steps:
+Setup SkillFinder on your local machine using these simple steps:
 
 ### Prerequisites
 
