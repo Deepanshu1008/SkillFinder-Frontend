@@ -21,10 +21,8 @@
 
 ## About The Project
 
-<img src="https://res.cloudinary.com/dpjf6btln/image/upload/v1658199960/Landing_page_f2kkmz.png" alt="Landing page">
-</img>
 
-&lt;partnersInCrime&gt; is a web platform specially designed for IIIT-K students which aims at facilitating smooth interaction between the college-mates regarding all the collaborative projects and hackathons held on various platforms.
+&lt;SkillFinder&gt; is a web platform specially designed for IIIT-K students which aims at facilitating smooth interaction between the college-mates regarding all the collaborative projects and hackathons held on various platforms.
 
 
 ### Built With
