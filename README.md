@@ -15,7 +15,7 @@
 ## About The Project
 
 
-&lt;SkillFinder&gt; is a web platform specially designed for IIIT-K students which aims at facilitating smooth interaction between the college-mates regarding all the collaborative projects and hackathons held on various platforms.
+&lt;SkillFinder&gt; is a web platform specially designed for college students which aims at facilitating smooth interaction between the college-mates regarding all the collaborative projects and hackathons held on various platforms.
 
 
 ### Built With
