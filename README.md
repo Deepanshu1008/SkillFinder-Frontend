@@ -58,7 +58,7 @@ Setup PartnersInCrime on your local machine using these simple steps:
    npm install
    ```
 >For Backend
-- Visit [partners-in-crime-backend](https://github.com/Deepanshu1008/SkillFinder-Backend) for backend repository
+- Visit [SkillFinder-backend](https://github.com/Deepanshu1008/SkillFinder-Backend) for backend repository
 
 <!-- CONTRIBUTING -->
 
